@@ -5,7 +5,7 @@ import time
 from pynput import keyboard, mouse
 
 # Настройки подключения
-host = '192.168.0.102'
+host = '0.0.0.0' # Replace into IP-address server
 port = 12345
 secret_key = '192.168.0.102'  # Секретный ключ
 

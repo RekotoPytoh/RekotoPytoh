@@ -8,7 +8,7 @@ from PIL import Image
 import pystray
 
 # Настройки подключения
-host = '192.168.0.102'  # Замените на IP-адрес сервера
+host = '0.0.0.0'  # Replace IP-address server
 port = 12345
 secret_key = '192.168.0.102'  # Секретный ключ
 
